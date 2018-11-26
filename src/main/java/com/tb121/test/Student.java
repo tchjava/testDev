@@ -9,4 +9,7 @@ public class Student {
         System.out.println("这是dev分支");
     }
 
+    private void createDev() {
+        System.out.println("开发了dev2");
+    }
 }
